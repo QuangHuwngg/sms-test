@@ -17,7 +17,7 @@ try:
     ╚════██║██╔═══╝ ██╔══██║██║╚██╔╝██║    ╚════██║██║╚██╔╝██║╚════██║
     ███████║██║     ██║  ██║██║ ╚═╝ ██║    ███████║██║ ╚═╝ ██║███████║
     ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝╚═╝     ╚═╝╚══════╝
-                                            Tool Created By Đức Huy'''
+                                            Tool Created By Nguyễn Quang Hưng'''
     print(Colorate.Vertical(Colors.DynamicMIX((Col.light_red, Col.light_blue)), Center.XCenter(banner)))
     phone = input("Số Điện Thoại: ")
     amount = int(input("Số Lượng: "))
